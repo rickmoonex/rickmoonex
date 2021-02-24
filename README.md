@@ -18,8 +18,6 @@ I'm currently discovering an interest in DevOps and the crowded world of program
 * NodeJS *(Both JavaScript and TypeScript)*
 * Microsoft SQL Server
 * PostgreSQL
-### Cloud Computing
-* Microsoft Azure *(AZ-900 Certified)*
 ### Systems Administration
 * Networking *(Cisco Certified)*
 * Windows Server
