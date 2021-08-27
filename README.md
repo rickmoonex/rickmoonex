@@ -21,6 +21,9 @@ I'm currently discovering an interest in DevOps and the crowded world of program
 ### Systems Administration
 * Networking *(Cisco Certified)*
 * Windows Server
+* Terraform (HashiCorp certified)
+* Consul (Hashicorp Certified)
+
 ### Productivity Utilities
 * Microsoft Office *(MOS Certified for Word, Excel and PowerPoint)*
 * Microsoft Power Platform *(PL-900 Certified)*
