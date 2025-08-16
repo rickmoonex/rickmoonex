@@ -19,7 +19,7 @@ text, tspan {white-space: pre; fill: #2E303E;}
 <text x="15" y="30" fill="#c9d1d9">
 <tspan x="15" y="30">rickmoonex</tspan> -——————————————————————————————————————————————————————————————————————————————————————
 <tspan x="15" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................................................................... </tspan><tspan class="value">MacOS + NixDarwin</tspan>
-<tspan x="15" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ............................................................ </tspan><tspan class="value" id="age_data">23 years, 0 months, 30 days</tspan>
+<tspan x="15" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .............................................................. </tspan><tspan class="value" id="age_data">23 years, 1 month, 0 days</tspan>
 <tspan x="15" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................................................. </tspan><tspan class="value">CloudShapers</tspan>
 <tspan x="15" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................................................. </tspan><tspan class="value">DevOps / Platform Engineer</tspan>
 <tspan x="15" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................................................................... </tspan><tspan class="value">VSCode, LazyVim</tspan>
